@@ -1,6 +1,14 @@
-from abc import ABC, abstractmethod
-
+# import libraries
 from config import COMMON_DATA_FORMAT, CONFIG_PARAMS
+from abc import ABC, abstractmethod
+import requests
+import json
+
+# import model
+from config import CONFIG_PARAMS
+
+# set up connection
+connection_params = []
 
 
 class MessagingSystem(ABC):
@@ -8,7 +16,6 @@ class MessagingSystem(ABC):
     def connect(self, connection_params):
         pass
 
-    @abstractmethod
     def publish(self, topic, data):
         pass
 

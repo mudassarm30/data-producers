@@ -33,3 +33,7 @@ sudo lsof -i :9092
 ```bash
 sudo kill <procId>
 ```
+
+## Setting up Amazon Managed Streaming for Kafka (AWS MSK)
+
+Please refer to the video tutorial for setting up AWS MSK: https://www.youtube.com/watch?v=HtU9pb18g5Q

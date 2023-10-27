@@ -1,6 +1,6 @@
 import json
 import uuid
-from adapters.messaging_system import MessagingSystem
+from producers.adapters.messaging_system import MessagingSystem
 from confluent_kafka import Producer
 
 

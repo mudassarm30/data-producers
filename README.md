@@ -37,3 +37,8 @@ sudo kill <procId>
 ## Setting up Amazon Managed Streaming for Kafka (AWS MSK)
 
 Please refer to the video tutorial for setting up AWS MSK: https://www.youtube.com/watch?v=HtU9pb18g5Q
+
+## Create Topic on AWS MSK From EC2
+
+Please refer: https://docs.aws.amazon.com/msk/latest/developerguide/create-topic.html
+

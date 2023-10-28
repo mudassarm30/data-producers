@@ -1,2 +1,4 @@
 confluent-kafka
 azure-eventhub
+google-cloud-pubsub
+google-oauth

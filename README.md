@@ -2,7 +2,7 @@
 
 These are the set of projects for getting some hands-on for data scraping, ingesting, analysis, plotting and performing machine learning on three clouds, AWS, Azure, GCP and opensource technologies. 
 
-# Real-time Data Streaming Technologies Comparison
+# 1. Real-time Data Streaming Technologies Comparison
 
 This table compares the features and capabilities of various real-time data streaming technologies, including Kinesis Data Streams, Azure Event Hubs, Cloud Pub/Sub, and Apache Kafka.
 
@@ -22,7 +22,7 @@ This table provides a comprehensive comparison of the capabilities and features 
 
 Please refer to **data-producers-consumers** project for implementation of producers and consumers for the above four technologies.
 
-# Real-time Data Processing Technologies Comparison
+# 2. Real-time Data Processing Technologies Comparison
 
 This table compares the features and capabilities of various real-time data processing technologies, including Amazon Kinesis Analytics, Azure Stream Analytics, Dataflow, and Apache Flink.
 

@@ -20,6 +20,8 @@ This table compares the features and capabilities of various real-time data stre
 
 This table provides a comprehensive comparison of the capabilities and features offered by each of the real-time data streaming technologies. Use this information to make informed decisions based on your project requirements and use case scenarios.
 
+Please refer to **data-producers** project for implementation of producers and consumers for the above four technologies.
+
 # Real-time Data Processing Technologies Comparison
 
 This table compares the features and capabilities of various real-time data processing technologies, including Amazon Kinesis Analytics, Azure Stream Analytics, Dataflow, and Apache Flink.
